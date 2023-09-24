@@ -201,8 +201,8 @@ color: var(--secondary);
 }
 
 /* portfolio project images */
-.unit-06 {
-  background-image: url("../images/coming-soon.jfif");
+.if-books-could-kill {
+  background-image: url("../images/if-books-could-kill.png");
 }
 
 .password-generator {
